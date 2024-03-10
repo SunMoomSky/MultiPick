@@ -1,9 +1,10 @@
-app_version=3.1.15
+app_version=3.1.16
 fw_version=2.0.2
 snd_version=3.0.0
 banner_image=img_20230801.png
 
 [Revision]
+2024-01-07 EV9
 2024-01-07 K8 2021 하이브리드
 2024-01-06 스포티지 2023 하이브리드
 2024-01-05 팰리세이드 2019
