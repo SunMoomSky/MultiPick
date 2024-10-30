@@ -1,4 +1,4 @@
-app_version=4.0.12
+app_version=4.0.13
 fw_version=4.0.0
 snd_version=4.0.0
 ntc_version=1.0.6
